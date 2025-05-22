@@ -1,0 +1,8 @@
+*.html linguist-detectable=false
+*.css linguist-detectable=false
+*.scss linguist-detectable=false
+*.js linguist-language=JavaScript
+*.py linguist-language=Python
+*.cpp linguist-language=C++
+*.c linguist-language=C
+*.java linguist-language=Java
